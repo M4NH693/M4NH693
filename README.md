@@ -1,6 +1,10 @@
-<h1 align="center">I'm Nguyễn Văn Mạnh</h1>
+<h1 align="center">I'm Harding Nguyen</h1>
 
 ### A passionate Network Student & Developer
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4NH693&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=M4NH693&label=Profile%20views&color=0e75b6&style=flat-square" alt="M4NH693" /> 
@@ -41,7 +45,4 @@
 
 ---
 
-### GitHub Streak Stats:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4NH693&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
