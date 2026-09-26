@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Nguyễn Văn Mạnh
 
-<!--
-**M4NH693/M4NH693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Network Student & Developer
 
-Here are some ideas to get you started:
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=M4NH693&label=Profile%20views&color=0e75b6&style=flat-square" alt="M4NH693" /> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **vmanh693@gmail.com**
+- 📝 Connect via Facebook: **[facebook.com](https://www.facebook.com/)**
+
+---
+
+### Connect with me:
+<p align="left">
+  <a href="https://github.com/M4NH693" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### Networking & Systems:
+<p align="left">
+  <!-- Cisco Packet Tracer -->
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
+  <!-- GNS3 -->
+  <img src="https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="GNS3" />
+  <!-- Zabbix -->
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <!-- Wireshark -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+---
+
+### Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,java,py,c,html,css,postgres,docker,linux,git,vscode" alt="Languages and Tools" />
+</p>
+
+---
+
+### GitHub Streak Stats:
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4NH693&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
