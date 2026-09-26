@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nguyễn Văn Mạnh
+<h1 align="center">I'm Nguyễn Văn Mạnh</h1>
 
 ### A passionate Network Student & Developer
 
@@ -36,7 +36,7 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,py,c,html,css,postgres,docker,linux,git,vscode" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,docker,linux,git" alt="Languages and Tools" />
 </p>
 
 ---
