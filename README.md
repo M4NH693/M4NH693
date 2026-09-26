@@ -1,25 +1,18 @@
-<h1 align="center">I'm Harding Nguyen</h1>
+<h1 align="center">Hi, I'm Harding Nguyen</h1>
 
-### A passionate Network Student & Developer
+<h3 align="center">A passionate Network Student & Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M4NH693&label=Profile%20views&color=0e75b6&style=flat-square" alt="M4NH693" /> 
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4NH693&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=M4NH693&label=Profile%20views&color=0e75b6&style=flat-square" alt="M4NH693" /> 
-</p>
-
-### Connect with me:
-<p align="left">
-  <a href="https://github.com/M4NH693" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
-  </a>
-</p>
-
 ---
 
-### Networking & Systems:
+### 🌐 Networking & Systems:
 <p align="left">
   <!-- Cisco Packet Tracer -->
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
@@ -33,14 +26,25 @@
 
 ---
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,postgres,docker,linux,git" alt="Languages and Tools" />
 </p>
 
- How to reach me: **vmanh693@gmail.com**
- Connect via Facebook: **[facebook.com](https://www.facebook.com/)**
-
 ---
+### 📬 Contact & Connect:
+<p align="left">
+  <img width="22" height="22" style="vertical-align: middle;" alt="mailbox" src="https://github.com/user-attachments/assets/f375911f-e8ee-43fb-990c-c315f309efe8" />
+  &nbsp;How to reach me: <b>vmanh693@gmail.com</b>
+</p>
 
+<p align="left">
+  <img width="22" height="22" style="vertical-align: middle;" alt="blog" src="https://github.com/user-attachments/assets/b27b5201-3cde-42dd-b4f8-5bcc591ece19" />
+  &nbsp;Connect via Facebook: <a href="https://www.facebook.com/" target="_blank"><b>facebook.com</b></a>
+</p>
 
+<p align="left">
+  <a href="https://github.com/M4NH693" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="35" height="35" />
+  </a>
+</p>
