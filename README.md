@@ -12,7 +12,7 @@
 
 ---
 
-### 🌐 Networking & Systems:
+### Networking & Systems:
 <p align="left">
   <!-- Cisco Packet Tracer -->
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
@@ -26,13 +26,13 @@
 
 ---
 
-### 💻 Languages and Tools:
+### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,postgres,docker,linux,git" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,docker,linux,github" alt="Languages and Tools" />
 </p>
 
 ---
-### 📬 Contact & Connect:
+### Contact & Connect:
 <p align="left">
   <img width="22" height="22" style="vertical-align: middle;" alt="mailbox" src="https://github.com/user-attachments/assets/f375911f-e8ee-43fb-990c-c315f309efe8" />
   &nbsp;How to reach me: <b>vmanh693@gmail.com</b>
@@ -43,8 +43,4 @@
   &nbsp;Connect via Facebook: <a href="https://www.facebook.com/" target="_blank"><b>facebook.com</b></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/M4NH693" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="35" height="35" />
-  </a>
-</p>
+
