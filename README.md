@@ -10,8 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=M4NH693&label=Profile%20views&color=0e75b6&style=flat-square" alt="M4NH693" /> 
 </p>
 
-- 📫 How to reach me: **vmanh693@gmail.com**
-- 📝 Connect via Facebook: **[facebook.com](https://www.facebook.com/)**
+- <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4NH693&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p> How to reach me: **vmanh693@gmail.com**
+- <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4NH693&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p> Connect via Facebook: **[facebook.com](https://www.facebook.com/)**
 
 ---
 
