@@ -3,14 +3,14 @@
 <h3 align="center">A passionate Network Student & Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M4NH693&label=Profile%20views&color=0e75b6&style=flat-square" alt="M4NH693" /> 
+  <img src="https://komarev.com/ghpvc/?username=M4NH693&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/M4NH693?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4NH693&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+
 
 ### Networking & Systems:
 <p align="left">
@@ -24,23 +24,21 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
----
+
 
 ### Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,postgres,docker,linux,github" alt="Languages and Tools" />
 </p>
 
----
+
 ### Contact & Connect:
 <p align="left">
-  <img width="22" height="22" style="vertical-align: middle;" alt="mailbox" src="https://github.com/user-attachments/assets/f375911f-e8ee-43fb-990c-c315f309efe8" />
-  &nbsp;How to reach me: <b>vmanh693@gmail.com</b>
+  <a href="mailto:vmanh693@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
-
-<p align="left">
-  <img width="22" height="22" style="vertical-align: middle;" alt="blog" src="https://github.com/user-attachments/assets/b27b5201-3cde-42dd-b4f8-5bcc591ece19" />
-  &nbsp;Connect via Facebook: <a href="https://www.facebook.com/" target="_blank"><b>facebook.com</b></a>
-</p>
-
 
